@@ -12,7 +12,9 @@ Following data layers are included:
 
 
 ### Percent Slope
+Generated using [gdaldem](https://gdal.org/programs/gdaldem.html).
 
-### MrVBF
+### MrVBF & MrRTF
+Generated using [SAGA GIS tool (Version: 2.3.1)](http://www.saga-gis.org/saga_tool_doc/2.3.0/ta_morphometry_8.html) with default parameters.
+A r5a.xlarge (4	vCPU, 32 GB momery) EC2 instance is used.
 
-### MrRTF
